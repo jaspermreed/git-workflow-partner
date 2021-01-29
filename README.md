@@ -1,5 +1,6 @@
 # Review Git && Github
 
+![git_is_not_github](https://1.bp.blogspot.com/-WY2YpNr3W6g/UY6tZAc-H3I/AAAAAAAABLY/xJ9x3wIY8V8/s440/Github2.png)
 # SWBATs
 * Create a git repository
 * Feel comfortable with add/commit/revert changes to code
